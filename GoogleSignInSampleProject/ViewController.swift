@@ -13,7 +13,7 @@ import FirebaseAuth
 import GoogleSignIn
 
 /*
- 
+    https://firebase.google.com/docs/auth/ios/google-signin
     1. Add URL to URL Types in Project -> Info -> URL Types
     2. App Delegate Initialiazation
     3. Call GoogleSignin with GIDSignIn.sharedInstance().signIn()
